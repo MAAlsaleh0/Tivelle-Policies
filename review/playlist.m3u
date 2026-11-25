@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://maalsaleh0.github.io/Tivelle-Policies/review/guide.xml"
+#EXTINF:24 tvg-id="tivelle-review-film" tvg-logo="https://maalsaleh0.github.io/Tivelle-Policies/review/art/ribbon.jpg" group-title="Tivelle Review Films" genre="Animation" year="2026" plot="An original animated aurora moves above a mountain ridge. Includes an English caption track.",Northern Ribbon
+https://maalsaleh0.github.io/Tivelle-Policies/review/movie/northern-ribbon.mp4
+#EXTINF:12 tvg-id="tivelle-review-e01" tvg-logo="https://maalsaleh0.github.io/Tivelle-Policies/review/art/first-light.jpg" group-title="Tivelle Review Series" genre="Animation" plot="The first light drifts into view.",Aurora Studies S01E01 - First Light
+https://maalsaleh0.github.io/Tivelle-Policies/review/series/first-light.mp4
+#EXTINF:12 tvg-id="tivelle-review-e02" tvg-logo="https://maalsaleh0.github.io/Tivelle-Policies/review/art/ridgeline.jpg" group-title="Tivelle Review Series" genre="Animation" plot="The luminous bands pass over the ridge.",Aurora Studies S01E02 - The Ridgeline
+https://maalsaleh0.github.io/Tivelle-Policies/review/series/ridgeline.mp4
+#EXTINF:-1 tvg-id="tivelle-review-channel" tvg-name="Aurora Review Channel" tvg-logo="https://maalsaleh0.github.io/Tivelle-Policies/review/art/channel.jpg" group-title="Tivelle Review Channels",Aurora Review Channel
+https://maalsaleh0.github.io/Tivelle-Policies/review/live/aurora.m3u8
